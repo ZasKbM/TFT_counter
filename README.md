@@ -42,6 +42,7 @@ The trait object is defined as:
 |---------------|--------------|---------------------------------------------------------------------------|
 | name          | String       | Name of the active trait                                                  |
 | tier          | Int          | Tier of the active trait                                                  |
+
 The Unit object is defined as:
 | Column        | Type         | Data type                                                                 |
 |---------------|--------------|---------------------------------------------------------------------------|
